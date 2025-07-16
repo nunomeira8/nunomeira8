@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 25yo Software Engineer degree from Portugal.
+I'm a Software Engineer degree from Portugal.
 
 Currently I'm working as a Junior Developer in Portugal. 
 I have 2.5 years of professional experience in:
