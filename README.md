@@ -3,6 +3,7 @@
 🎓 I'm graduated in Software Engineer in Portugal.
 
 Currently I'm working as a Junior Developer. 💻
+
 I have 2.5 years of professional experience in:
 - Java Spring
 - Angular
