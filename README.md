@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a 25yo Software Engineer degree from Portugal.
+
+Currently I'm working as a Junior Developer in Portugal. 
+I have 2.5 years of professional experience in:
+- Java Spring
+- Angular
+- SQL Server
+
 <!--
 **nunomeira8/nunomeira8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
