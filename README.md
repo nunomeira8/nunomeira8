@@ -14,7 +14,7 @@ I'm currently developing a personal project while using:
 - Angular
 - SQL Server
 
-I'm also developing a portfolio site about myself with Vue.js.
+I'm also developing a portfolio site about myself using Vue framework.
 
 <!--
 **nunomeira8/nunomeira8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
