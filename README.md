@@ -8,13 +8,18 @@ I have 2.5 years of professional experience in:
 - Java Spring
 - Angular
 - SQL Server
+using an Agile Methodology.
 
-I'm currently developing a personal project while using:
-- Java Quarkus
-- Angular
-- SQL Server
+External Projects:
+1) Been part of a 2-person team developing a website for a Wedding Invite.
+The website was developed in Angular, it was connected to a Firestore database and was hosted on Netlify.
 
-I'm also developing a portfolio site about myself using Vue framework.
+2) I'm currently developing a personal project where I save a lot of personal information(p.e. expenses) while using:
+- Java Quarkus (backend)
+- Angular (frontend)
+- SQL Server (local database)
+
+3) I'm developing a portfolio site about myself using Vue3 only.
 
 <!--
 **nunomeira8/nunomeira8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
