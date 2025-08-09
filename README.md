@@ -18,6 +18,7 @@ The website was developed in Angular, it was connected to a Firestore database a
 - Java Quarkus (backend)
 - Angular (frontend)
 - SQL Server (local database)
+- Python (a command-line application helper that introduces some info on database)
 
 3) I'm developing a portfolio site about myself using Vue3 only.
 
