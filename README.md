@@ -4,7 +4,7 @@
 
 Currently I'm working as a Junior Developer. 💻
 
-I have 2.5 years of professional experience in:
+I have 3 years of professional experience in:
 - Java Spring
 - Angular
 - SQL Server
