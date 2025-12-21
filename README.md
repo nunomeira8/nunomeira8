@@ -22,6 +22,9 @@ The website was developed in Angular, it was connected to a Firestore database a
 
 3) I'm developing a portfolio site about myself using Vue3 only.
 
+4) I've developed a web application that consisted on a christmas gift for 2025.
+- React + Vite - full 100% static frontend app.
+
 <!--
 **nunomeira8/nunomeira8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
