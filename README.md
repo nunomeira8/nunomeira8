@@ -11,17 +11,20 @@ I have 3 years of professional experience using an Agile Methodology in:
 
 External Projects:
 1) Been part of a 2-person team developing a website for a Wedding Invite.
-The website was developed in Angular, it was connected to a Firestore database and was hosted on Netlify.
+- Angular (frontend)
+- Firestore database (online database)
+- hosted on Netlify.
 
-2) Developing a personal project where I save a lot of personal information(p.e. expenses) while using:
+2) Developing a local personal project where I save a lot of personal information(p.e. expenses) while using:
 - Java Quarkus (backend)
 - Angular (frontend)
 - SQL Server (local database)
 - Python (a command-line application helper that introduces some info on database)
 
-3) Developing a portfolio site about myself using Vue3 only.
+3) Developing a portfolio site about myself
+- Vue3
 
-4) Developed a web application that consisted on a christmas gift for 2025.
+5) Developed a web application that consisted on a christmas gift for 2025.
 - React + Vite - full 100% static frontend app.
 
 5) Developing Sushi League — a real-time multiplayer mobile-first web app where players compete in sushi eating battles
