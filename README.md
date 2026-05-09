@@ -4,11 +4,10 @@
 
 Currently I'm working as a Junior Developer. 💻
 
-I have 3 years of professional experience in:
+I have 3 years of professional experience using an Agile Methodology in:
 - Java Spring
 - Angular
 - SQL Server
-using an Agile Methodology.
 
 External Projects:
 1) Been part of a 2-person team developing a website for a Wedding Invite.
